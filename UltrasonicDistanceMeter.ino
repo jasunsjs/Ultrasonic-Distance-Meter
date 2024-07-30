@@ -1,9 +1,9 @@
 /*
 Title: Ultrasonic Distance Meter
 Description: Distance measurement with ultrasonic sensor and using LCD Display to show measurements.
-Date: 2023-04-21
+Updated 2023-07-28
 Author: Jason Sun
-Version 1.0
+Version 2.0
 */
 
 #include <LiquidCrystal.h>

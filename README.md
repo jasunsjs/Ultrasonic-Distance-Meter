@@ -10,3 +10,5 @@ The meter has three operating modes: MEASURE, HOLD, & REFERENCE.
 
 Meter has 2 operational units: inches and centimeters.
 
+Additional information can be found in the data sheet.
+
